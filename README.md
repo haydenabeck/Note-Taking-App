@@ -1,7 +1,7 @@
 # Express.js: Note Taker
 
 ## Live Link
-
+https://powerful-woodland-20826.herokuapp.com/
 
 ## Contributors 
 @haydenabeck
@@ -17,7 +17,7 @@ Javascript, Node.JS, Express
 This application is designed to help a user take notes on any subject, then recall the notes at a later time for reference. 
 
 
-## Screenshots/Video
+## Screenshots
 Working routes
 <img src=".\assets\Screenshot (40).png" alt="">
 Example of a saved note being recalled
